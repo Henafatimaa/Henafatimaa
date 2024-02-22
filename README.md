@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hena Fatima</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://s1.ezgif.com/tmp/ezgif-1-0affb38f9e.gif">
+<img align="right" alt="Coding" width="300" src="https://s1.ezgif.com/tmp/ezgif-1-0affb38f9e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henafatimaa&label=Profile%20views&color=0e75b6&style=flat" alt="henafatimaa" /> </p>
 
